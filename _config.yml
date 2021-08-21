@@ -10,10 +10,10 @@
 
 title: Z0ldyck                          # the main title
 
-tagline: Hackthebox Vault # it will display as the sub-title
+tagline: I know nothing  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog de Ciberseguridad/Infosec | Writeups Máquinas de Hackthebox activas/retiradas | Red Teaming - Hacking
+  Cyber Security stuff and more
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://electronicbots.github.io'
