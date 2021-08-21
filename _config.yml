@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: OxDeed                          # the main title
+title: Z0ldyck                          # the main title
 
 tagline: Hackthebox Vault # it will display as the sub-title
 
@@ -16,25 +16,25 @@ description: >-                        # used by seo meta and the atom feed
   Blog de Ciberseguridad/Infosec | Writeups Máquinas de Hackthebox activas/retiradas | Red Teaming - Hacking
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://0xdeed.github.io'
+url: 'https://electronicbots.github.io'
 
-author: Oxdeed                  # change to your full name
+author: Z0ldyck                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: 0xDeed             # change to your github username
+  username: electronicbots             # change to your github username
 
 twitter:
-  username: 0xdedmuz  # change to your twitter username
+  username: electronicbots  # change to your twitter username
 
 social:
-  name: OxDeed                  # it will shows as the copyright owner in Footer
-  email: 0xdedmuz@gmail.com             # change to your email address
+  name: Z0ldyck                  # it will shows as the copyright owner in Footer
+  email: electronicbots@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/0xdedmuz      # change to your twitter homepage
-    - https://github.com/0xDeed       # change to your github homepage
+    - https://twitter.com/electronicbots      # change to your twitter homepage
+    - https://github.com/electronicbots       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
