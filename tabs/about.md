@@ -36,8 +36,7 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 
 <html>  
 <head>  
-    <meta charset="utf-8" />  
-    <title>My Slider</title>  
+    <meta charset="utf-8" />    
     <style type="text/css">  
         body {  
             margin: 0;  
