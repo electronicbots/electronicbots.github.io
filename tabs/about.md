@@ -14,17 +14,17 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 
 # Certifications
 
-#### Certified Red Team Operator `(CRTO)` from Zero Points Security - 07/2021
+### Certified Red Team Operator `(CRTO)`
 
-#### Offensive Security Certified Professional `(OSCP)` from Offensive Security - 03/2021
+### Offensive Security Certified Professional `(OSCP)`
 
-#### eLearnSecurity Certified Penetration Tester `(eCPPTv2)` from eLearnSecurit - 08/2020
+### eLearnSecurity Certified Penetration Tester `(eCPPTv2)`
 
-#### eLearnSecurity Web Application Penetration Testing `(eWPT)` from eLearnSecurity - 06/2020
+### eLearnSecurity Web Application Penetration Testing `(eWPT)`
 
-#### eLearnSecurity Junior Penetration Tester `(eJPT)` from eLearnSecurity - 06/2019
+### eLearnSecurity Junior Penetration Tester `(eJPT)`
 
-#### PentesterLab Badges
+### PentesterLab Badges
 - Blue
 - Intercept
 - Serialize
@@ -37,12 +37,12 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 
 # Achievements
 
-#### Registered three CVEs:
+### Registered three CVEs:
 - CVE-2021-31760
 - CVE-2021-31761
 - CVE-2021-31762
 
-#### Acknowledged By (Webmin)
+### Acknowledged By (Webmin)
 
-#### CyberPatriot
+### CyberPatriot
 First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 - 2021)
