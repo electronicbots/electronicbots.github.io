@@ -10,4 +10,39 @@ title: Who Am I
 
 > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
 
+Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year student at Champlain College majoring in Cyber Security. I started learning about Network and Web Penetration Testing while I am in High School. Before High School, I had some experience with programming and Arduino.
 
+# Certifications
+
+#### Certified Red Team Operator `(CRTO)` from Zero Points Security - 07/2021
+
+#### Offensive Security Certified Professional `(OSCP)` from Offensive Security - 03/2021
+
+#### eLearnSecurity Certified Penetration Tester `(eCPPTv2)` from eLearnSecurit - 08/2020
+
+#### eLearnSecurity Web Application Penetration Testing `(eWPT)` from eLearnSecurity - 06/2020
+
+#### eLearnSecurity Junior Penetration Tester `(eJPT)` from eLearnSecurity - 06/2019
+
+#### PentesterLab Badges
+- Blue
+- Intercept
+- Serialize
+- White
+- Yellow
+- Essential
+- PCAP
+- Unix
+
+
+# Achievements
+
+#### Registered three CVEs:
+- CVE-2021-31760
+- CVE-2021-31761
+- CVE-2021-31762
+
+#### Acknowledged By (Webmin)
+
+#### CyberPatriot
+First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 - 2021)
