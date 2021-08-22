@@ -35,29 +35,6 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 - Unix
 
 
-<html>
-<head>
-    <link href="style.css" type="text/css" rel="stylesheet">
-</head>
-<body>
-    <div class="slider-holder">
-        <span id="slider-image-1"></span>
-        <span id="slider-image-2"></span>
-        <span id="slider-image-3"></span>
-        <div class="image-holder">
-            <img src="../images/certs/CRTO.png" class="slider-image" />
-            <img src="../images/certs/eCPPT.png" class="slider-image" />
-            <img src="../images/certs/eWPT.png" class="slider-image" />
-        </div>
-        <div class="button-holder">
-            <a href="#slider-image-1" class="slider-change"></a>
-            <a href="#slider-image-2" class="slider-change"></a>
-            <a href="#slider-image-3" class="slider-change"></a>
-        </div>
-    </div>
-</body>
-</html>
-
 # Achievements
 
 ### Registered three CVEs:
