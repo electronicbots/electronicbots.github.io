@@ -114,20 +114,20 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 <body>  
     <div class="slidercontainer">  
         <div class="showSlide fade">  
-            <img src="../images/certs/CRTO.png" />  
+            <img src="../../images/certs/CRTO.png" />  
             <div class="content">Slide1 heading</div>  
         </div>  
         <div class="showSlide fade">  
-            <img src="../images/certs/eCPPT.png" />  
+            <img src="../../images/certs/eCPPT.png" />  
             <div class="content">Slide2 heading</div>  
         </div>  
   
         <div class="showSlide fade">  
-            <img src="../images/certs/eWPT.png" />  
+            <img src="../../images/certs/eWPT.png" />  
             <div class="content">Slide3 heading</div>  
         </div>  
         <div class="showSlide fade">  
-            <img src="../images/certs/eJPT.png" />  
+            <img src="../../images/certs/eJPT.png" />  
             <div class="content">Slide4 heading</div>  
         </div>  
         <!-- Navigation arrows -->  
