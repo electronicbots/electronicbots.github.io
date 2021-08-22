@@ -19,7 +19,7 @@
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "About Me"
   icon: "fas fa-info"
   path: tabs
   url: about
