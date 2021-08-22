@@ -42,11 +42,6 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 </style>
 <body>
 
-<div class="w3-container">
-  <h2>Slideshow Caption</h2>
-  <p>Add a caption text for each image slide with the w3-display-* classes (topleft, topmiddle, topright, bottomleft, bottommiddle, bottomright or middle).</p>
-</div>
-
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
