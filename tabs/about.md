@@ -68,7 +68,7 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 <div class="w3-display-container mySlides">
   <img src="../../images/certs/eJPT.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eWPT
+    eJPT
   </div>
 </div>
 
