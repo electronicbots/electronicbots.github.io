@@ -10,7 +10,7 @@ title: Who Am I
 
 > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
 
-Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year student at Champlain College majoring in Cyber Security. I started learning about Network and Web Penetration Testing while I am in High School. Before High School, I had some experience with programming and Arduino.
+Hello reader, My name is Mohammed or as known as `Z0ldyck`. I am a first-year student at Champlain College majoring in Cyber Security. I started learning about Network and Web Penetration Testing while I am in High School. Before High School, I had some experience with programming and Arduino.
 
 # Certifications
 
