@@ -72,6 +72,12 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
   </div>
 </div>
 
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/blue.PNG" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+ 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
 
