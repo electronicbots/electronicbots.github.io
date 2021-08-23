@@ -167,5 +167,9 @@ First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 -
 ### Zmuggler
 - A tool that automates the process of testing web applications against HTTP Request Smuggling vulnerabilities.
 
+![zmuggler](../../images/certs/zmuggler.png)
+
 ### ZRedirect
 - A tool that automates the process of testing web applications against Open Redirection vulnerabilities.
+
+![zredirect](../../images/certs/zredirect.png)
