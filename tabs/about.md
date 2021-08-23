@@ -65,6 +65,12 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
   </div>
 </div>
 
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/eJPT.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    eWPT
+  </div>
+</div>
 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
@@ -105,3 +111,12 @@ function showDivs(n) {
 
 ### CyberPatriot
 First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 - 2021)
+
+
+# Personal Projects
+
+### Zmuggler
+- A tool that automates the process of testing web applications against HTTP Request Smuggling vulnerabilities.
+
+### ZRedirect
+- A tool that automates the process of testing web applications against Open Redirection vulnerabilities.
