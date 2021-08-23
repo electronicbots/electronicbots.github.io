@@ -45,21 +45,21 @@ Hello reader, My name is Mohammed or as known as Z0ldyck. I am a first-year stud
 <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
-  <img src="../../images/certs/CRTO.png" style="width:100%">
+  <img src="../../images/certs/CRTO.png" style="width:50%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
     CRTO
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="../../images/certs/eCPPT.png" style="width:100%">
+  <img src="../../images/certs/eCPPT.png" style="width:50%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
     eCPPT
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="../../images/certs/eWPT.png" style="width:100%">
+  <img src="../../images/certs/eWPT.png" style="width:50%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
     eWPT
   </div>
