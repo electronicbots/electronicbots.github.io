@@ -99,3 +99,12 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 
 ![MSF](../../images/Applocker-CLM/9.png)
 
+### LOLBins
+
+<html>
+  <div dir="auto">
+    بنفس الوقت في برامج Trusted by Windows وهذه نقدر عن طريقها نسوي execute لملفنا. تقدرون تشيكون كيف ممكن نستغلها من هنا:
+    </div>
+</html>
+
+[LOLBAS](https://lolbas-project.github.io/)
