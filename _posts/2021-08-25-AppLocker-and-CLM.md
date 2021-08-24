@@ -45,3 +45,20 @@ tags: [zoldyck]
 ```powershell
 Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 ```
+\
+&nbsp;
+<html>
+  <div dir="auto">
+    حفظنا النتائج في ملف xml موجود على ال Desktop نقدر نقرأ المعلومات الي بداخله:
+    </div>
+</html>
+
+![AppLocker](../../images/Applocker-CLM/3.png)
+
+<html>
+  <div dir="auto">
+    خلونا نركز اول شي على هذه الجزئية:
+    </div>
+</html>
+
+![Deny](../../images/Applocker-CLM/4.png)
