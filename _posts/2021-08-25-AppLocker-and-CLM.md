@@ -62,3 +62,25 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 </html>
 
 ![Deny](../../images/Applocker-CLM/4.png)
+
+
+<html>
+  <div dir="auto">
+    نقدر نشوف انه في Deny على "%OSDRIVE%\Users\*" طيب ممكن تسأل وين مكان ال "%OSDRIVE%" هذا المكان بس ال AppLocker يتعامل معاه نقدر نسوي سيرش خفيف يرجع لنا هذه ال article من Microsoft:
+    </div>
+</html>
+
+![Google](../../images/Applocker-CLM/5.png)
+
+
+![Microsoft](../../images/Applocker-CLM/6.png)
+
+
+<html>
+  <div dir="auto">
+    نقدر نعرف انه "%OSDRIVE%" هو نفسه ال "%SystemDrive%" والي هو عبارة عن \:C فنقدر نفهم انه كل ال executable file الي موجودة في هذا ال path ما رح تشتغل "C:\Users\" بنفس الوقت شوفو هذه الجزئية:
+    </div>
+</html>
+
+
+![Temp](../../images/Applocker-CLM/7.png)
