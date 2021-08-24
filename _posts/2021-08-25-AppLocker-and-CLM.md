@@ -32,3 +32,14 @@ tags: [zoldyck]
 ![GUI](../../images/Applocker-CLM/1.png)
 
 ![reverse shell](../../images/Applocker-CLM/2.png)
+
+
+<html>
+  <div dir="auto">
+    من ال Error نقدر نتأكد ان ال AppLocker شغال. خلونا اول شي نستعرض ال rules الخاصة بال AppLocker عن طريق هذا الأمر:
+    </div>
+</html>
+
+```powershell
+Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
+```
