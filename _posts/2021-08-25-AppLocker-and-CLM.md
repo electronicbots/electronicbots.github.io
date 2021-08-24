@@ -78,9 +78,21 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 
 <html>
   <div dir="auto">
-    نقدر نعرف انه "%OSDRIVE%" هو نفسه ال "%SystemDrive%" والي هو عبارة عن \:C فنقدر نفهم انه كل ال executable file الي موجودة في هذا ال path ما رح تشتغل "C:\Users\" بنفس الوقت شوفو هذه الجزئية:
+    نقدر نعرف انه "%OSDRIVE%" هو نفسه ال "%SystemDrive%" والي هو عبارة عن "\:C" فنقدر نفهم انه كل ال executable file الي موجودة في هذا ال path ما رح تشتغل "C:\Users\" بنفس الوقت شوفو هذه الجزئية:
     </div>
 </html>
 
 
 ![Temp](../../images/Applocker-CLM/7.png)
+
+
+<html>
+  <div dir="auto">
+    نقدر نعرف انه مسموح نشغل اي executable file فيه ال C:\temp فخلونا ننقل ملف ال reverse shell لهذا المكان ونجرب نشغله.رح نلاحظ انه ما رجع لنا اي error و جتنا shell في ال kali:
+    </div>
+</html>
+
+![cp](../../images/Applocker-CLM/8.png)
+
+
+![MSF](../../images/Applocker-CLM/9.png)
