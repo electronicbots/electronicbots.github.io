@@ -14,8 +14,6 @@ tags: [zoldyck]
     </div>
 </html>
 
-\
-&nbsp;
 
 - Executable
 - Windows Installer
