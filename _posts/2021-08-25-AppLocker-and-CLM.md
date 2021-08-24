@@ -70,9 +70,12 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 قدر نشوف انه في Deny على 
     </div>
 </html>
+
+
 `%OSDRIVE%\Users\*`
 
 `test`
+
 
 <html>
   <div dir="auto">
