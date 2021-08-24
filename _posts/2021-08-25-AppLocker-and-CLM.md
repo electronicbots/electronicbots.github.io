@@ -6,7 +6,7 @@ categories: [Blogging, Tutorial]
 tags: [zoldyck]
 ---
 
-## What is AppLocker?
+## What is `AppLocker`?
 
 <html>
   <div dir="auto">
@@ -21,6 +21,7 @@ tags: [zoldyck]
 - Packaged App
 - DLLs
 
+## Bypassing `AppLocker`
 <html>
   <div dir="auto">
     وفي default configuration لل AppLocker تخلي بعض الأماكن مسموح فيها ال executable files لان هذا المكان فيه ملفات trusted by Windows مثل C:\Windows و ال C:\Program Files . الصعوبة في عملية ال bypass لل AppLocker  تعتمد على ال rules الي موجودة. خلونا ناخذ مثال صغير ونحاول نجيب revers shell على النظام. لنفترض اننا نقلنا ملف ال revers shell لل Desktop. اذا جربنا نشغل الملف رجع لنا هذا ال Error:
