@@ -101,7 +101,7 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 \
 &nbsp;
 
-<html><div dir="auto">هذا المكان بس ال AppLocker يتعامل معاه نقدر نسوي سيرش خفيف يرجع لنا هذه ال article من Microsoft:</div><div class="tip" markdown="1">`%OSDRIVE%`</div></html>
+<html><div dir="auto" class="tip" markdown="1">هذا المكان بس ال AppLocker يتعامل معاه نقدر نسوي سيرش خفيف يرجع لنا هذه ال article من Microsoft: `%OSDRIVE%`</div></html>
 
 
 `%OSDRIVE%`
