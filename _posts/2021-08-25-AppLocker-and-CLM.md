@@ -40,6 +40,8 @@ tags: [zoldyck]
     </div>
 </html>
 
+\
+&nbsp;
 ```powershell
 Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 ```
