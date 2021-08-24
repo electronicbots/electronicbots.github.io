@@ -67,21 +67,10 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 
 <html>
   <div dir="auto">
-قدر نشوف انه في Deny على 
+    نقدر نشوف انه في Deny على "%OSDRIVE%\Users\*" طيب ممكن تسأل وين مكان ال "%OSDRIVE%" هذا المكان بس ال AppLocker يتعامل معاه نقدر نسوي سيرش خفيف يرجع لنا هذه ال article من Microsoft:
     </div>
 </html>
 
-
-`%OSDRIVE%\Users\*`
-
-`test`
-
-
-<html>
-  <div dir="auto">
-    طيب ممكن تسأل وين مكان ال %OSDRIVE% هذا المكان بس ال AppLocker يتعامل معاه نقدر نسوي سيرش خفيف يرجع لنا هذه ال article من Microsoft:
-    </div>
-</html>
 
 ![Google](../../images/Applocker-CLM/5.png)
 
