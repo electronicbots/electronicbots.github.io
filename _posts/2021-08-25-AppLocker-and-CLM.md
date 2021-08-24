@@ -71,6 +71,7 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
     </div>
 </html>
 `%OSDRIVE%\Users\*`
+`test`
 
 
 ![Google](../../images/Applocker-CLM/5.png)
