@@ -115,7 +115,7 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 
 <html>
   <div dir="auto">
-        طيب لما ال AppLocker يكون شغال غالباً Powershell رح تكون تستخدم ال Constrained Language Mode أو المعروف بال CLM وهذه تمنعنا من اننا نسوي execute لأوامر او اننا نستخدم ال .Net نقدر نشيك أيش ال Powershell Mode الحالي عن طريق هذا الأمر: 
+        طيب لما ال AppLocker يكون شغال غالباً Powershell رح تكون تستخدم ال Constrained Language Mode أو المعروف بال CLM وهذه تمنعنا من اننا نسوي execute لأوامر او اننا نستخدم ال Net. نقدر نشيك أيش ال Powershell Mode الحالي عن طريق هذا الأمر: 
     </div>
 </html>
 
