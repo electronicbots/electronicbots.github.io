@@ -64,7 +64,16 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
   
 
 
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Contact</p></b></body></html>
 
+<ul><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/mohammedhh/"> Mohammed's Linkedin account</a></ul>
+<ul><i class="fab fa-github"></i> <a href="https://github.com/electronicbots"> Mohammed's Github account</a></ul> 
+<ul><i class="fab fa-twitter"></i> <a href="https://twitter.com/electronicbots"> Mohammed's Twitter account</a></ul>
+<ul><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/c/Z0ldyck">Mohammed's YouTube channel</a></ul> 
+<br>
+
+> <html><body><b><p style="color:#A52A2A;font-size:25px">SlideShow</p></b></body></html>
+  
 
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
