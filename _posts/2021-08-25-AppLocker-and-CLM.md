@@ -119,7 +119,33 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
     </div>
 </html>
 
-
+\
+&nbsp;
 ```powershell
 $ExecutionContext.SessionState.LanguageMode
 ```
+
+![MSF](../../images/Applocker-CLM/10.png)
+
+
+<html>
+  <div dir="auto">
+      طيب حالياً ال CLM شغال خلونا نحاول نطبع كلمة عن طريق هذا الأمر:
+    </div>
+</html>
+
+\
+&nbsp;
+```powershell
+[system.console]::WriteLine("Test")
+```
+
+![MSF](../../images/Applocker-CLM/11.png)
+
+
+<html>
+  <div dir="auto">
+    نقدر نلاحظ رجع لنا error بسبب ال CLM
+    </div>
+</html>
+
