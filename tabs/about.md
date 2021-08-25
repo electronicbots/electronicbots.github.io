@@ -92,6 +92,15 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
   </div>
 </div>
 
+  
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/OSCP.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+    OSCP
+  </div>
+</div>
+  
+
 <div class="w3-display-container mySlides">
   <img src="../../images/certs/eCPPT.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
@@ -109,10 +118,30 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
 <div class="w3-display-container mySlides">
   <img src="../../images/certs/eJPT.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
-    eJPT
   </div>
 </div>
 
+  
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/cyber1.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+
+  
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/cyber2.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/webmin.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
 <div class="w3-display-container mySlides">
   <img src="../../images/certs/blue.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
@@ -161,7 +190,19 @@ Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a
   </div>
 </div>
   
-
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/zmuggler.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+<div class="w3-display-container mySlides">
+  <img src="../../images/certs/zredirect.png" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
+  </div>
+</div>
+  
+ 
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
 
