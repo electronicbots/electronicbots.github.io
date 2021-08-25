@@ -4,6 +4,15 @@
 <br>
 <br>
 
+
+> <html><body><b><p style="color:#A52A2A;font-size:25px">WORK EXPERIENCE:</p></b></body></html>
+
+<ul><li><b>Synack Red Team member</b></li> <br>
+Penetration Tester at Synack since (Jul,2021)(Part Time) </ul>
+<ul><li><b>The Leahy Center</b></li> <br>
+Research Assistant (May,2021 - Jul,2021)(Part Time)<br></ul>
+  
+
 > <html><body><b><p style="color:#A52A2A;font-size:25px">Certifications:</p></b></body></html>
 
 <ul><li><b>Certified Red Team Operator (CRTO)</b></li> <br>
@@ -21,6 +30,26 @@ Blue - Intercept - Serialize - White - Yellow - Essential - PCAP - Unix</ul>
 
 <br><br> 
 
+> <html><body><b><p style="color:#A52A2A;font-size:25px">PERSONAL PROJECTS:</p></b></body></html>
+
+<ul><li><b>Zmuggler</b></li> <br>
+A simple tool for finding HTTP Request Smuggling vulnerability in a website. It works by providing the target URL</ul>
+<ul><li><b>ZRedirect</b></li> <br>
+A simple tool for finding open redirect vulnerability in a website. It works by providing a file contains for example wayback urls</ul>
+  
+
+<br><br>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">CVEs</p></b></body></html>
+
+<ul><li><b>CVE-2021-31760:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31760/">CVE-2021-31760</a></ul>  
+<ul><li><b>CVE-2021-31761:</b></li> <br>
+Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a Remote Command Execution (RCE) through the Webmin's running process feature<br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31761/">CVE-2021-31761</a></ul>
+<ul><li><b>CVE-2021-31762:</b></li> <br>
+Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
   
 # Achievements
 
@@ -34,18 +63,6 @@ Blue - Intercept - Serialize - White - Yellow - Essential - PCAP - Unix</ul>
 ### CyberPatriot
 First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 - 2021)
 
-
-# Personal Projects
-
-### Zmuggler
-- A tool that automates the process of testing web applications against HTTP Request Smuggling vulnerabilities.
-
-![zmuggler](../../images/certs/zmuggler.png)
-
-### ZRedirect
-- A tool that automates the process of testing web applications against Open Redirection vulnerabilities.
-
-![zredirect](../../images/certs/zredirect.png)
 
 
 <html>
