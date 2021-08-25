@@ -125,7 +125,7 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 $ExecutionContext.SessionState.LanguageMode
 ```
 
-![MSF](../../images/Applocker-CLM/10.png)
+![CLM](../../images/Applocker-CLM/10.png)
 
 
 <html>
@@ -140,7 +140,7 @@ $ExecutionContext.SessionState.LanguageMode
 [system.console]::WriteLine("Test")
 ```
 
-![MSF](../../images/Applocker-CLM/11.png)
+![CLM2](../../images/Applocker-CLM/11.png)
 
 
 <html>
@@ -149,3 +149,36 @@ $ExecutionContext.SessionState.LanguageMode
     </div>
 </html>
 
+## Bypassing CLM
+
+### Powershell 2
+
+<html>
+  <div dir="auto">
+    وحدة من الطرق عشان نسوي Bypass لل CLM هي عن اننا نسوي downgrade لل powershell version: 
+    </div>
+</html>
+
+\
+&nbsp;
+```powershell
+powershell -v 2
+```
+![powershell-v2](../../images/Applocker-CLM/12.png)
+
+
+### Rundll32
+
+<html>
+  <div dir="auto">
+    نقدر عن طريق ال Rundll32 و PowerShdll اننا نسوي bypass لل CLM:
+    </div>
+</html>
+
+\
+&nbsp;
+```powershell
+rundll32.exe .\PowerShdll.dll,main -w
+```
+
+![Rundll32](../../images/Applocker-CLM/13.png)
