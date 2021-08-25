@@ -17,18 +17,11 @@ eLearnSecurity</ul>
 <ul><li><b>eLearnSecurity Junior Penetration Tester (eJPT)</b></li> <br>
 eLearnSecurity</ul>
 <ul><li><b>PentesterLab Badges</b></li> <br>
-</ul>
+Blue - Intercept - Serialize - White - Yellow - Essential - PCAP - Unix</ul>
 
 <br><br> 
 
-- Blue
-- Intercept
-- Serialize
-- White
-- Yellow
-- Essential
-- PCAP
-- Unix
+
 
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
