@@ -4,19 +4,23 @@
 <br>
 <br>
 
-# Certifications
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Certifications:</p></b></body></html>
 
-### Certified Red Team Operator `(CRTO)`
+<ul><li><b>Certified Red Team Operator (CRTO)</b></li> <br>
+zeropointsecurity</ul>
+<ul><li><b>Offensive Security Certified Professional (OSCP)</b></li> <br>
+OffensiveSecurity</ul>
+<ul><li><b>eLearnSecurity Certified Penetration Tester (eCPPTv2)</b></li> <br>
+eLearnSecurity</ul>
+<ul><li><b>Web Application Penetration Testing ( eWPT )</b></li> <br>
+eLearnSecurity</ul>
+<ul><li><b>eLearnSecurity Junior Penetration Tester (eJPT)</b></li> <br>
+eLearnSecurity</ul>
+<ul><li><b>PentesterLab Badges</b></li> <br>
+</ul>
 
-### Offensive Security Certified Professional `(OSCP)`
+<br><br> 
 
-### eLearnSecurity Certified Penetration Tester `(eCPPTv2)`
-
-### eLearnSecurity Web Application Penetration Testing `(eWPT)`
-
-### eLearnSecurity Junior Penetration Tester `(eJPT)`
-
-### PentesterLab Badges
 - Blue
 - Intercept
 - Serialize
