@@ -169,83 +169,83 @@ First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 -
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
-.mySlides2 {display:none;}
+.mySlides {display:none;}
 </style>
 <body>
 
 <div class="w3-content w3-display-container">
 
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/CRTO.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     CRTO
   </div>
 </div>
 
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/eCPPT.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eCPPT
   </div>
 </div>
 
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/eWPT.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eWPT
   </div>
 </div>
 
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/eJPT.png" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
     eJPT
   </div>
 </div>
 
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/blue.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
  
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/Intercept.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
 
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/Serialize.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
   
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/WHITE.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
   
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/yellow.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
   
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/Essential.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
   
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/PCAP.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
 </div>
   
-<div class="w3-display-container mySlides2">
+<div class="w3-display-container mySlides">
   <img src="../../images/certs/unix.PNG" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-10 w3-black">
   </div>
@@ -258,22 +258,22 @@ First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 -
 </div>
 
 <script>
-var slideIndex2 = 1;
-showDivs(slideIndex2);
+var slideIndexx = 1;
+showDivs(slideIndexx);
 
-function plusDivs(n) {
-  showDivs(slideIndex2 += n);
+function plusDivs(p) {
+  showDivs(slideIndexx += p);
 }
 
-function showDivs(n) {
-  var o;
-  var y = document.getElementsByClassName("mySlides2");
-  if (f > y.length) {slideIndex2 = 1}
-  if (f < 1) {slideIndex2 = y.length}
-  for (o = 0; o < y.length; o++) {
-     y[i].style.display = "none";  
+function showDivs(p) {
+  var q;
+  var y = document.getElementsByClassName("mySlides");
+  if (p > y.length) {slideIndexx = 1}
+  if (p < 1) {slideIndexx = y.length}
+  for (q = 0; q < y.length; q++) {
+     y[q].style.display = "none";  
   }
-  y[slideIndex2-1].style.display = "block";  
+  y[slideIndexx-1].style.display = "block";  
 }
 </script>
 
