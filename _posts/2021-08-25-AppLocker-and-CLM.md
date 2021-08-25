@@ -6,7 +6,6 @@ categories: [Blogging, Tutorial]
 tags: [zoldyck]
 ---
 
-<html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
 ## What is AppLocker?
 
@@ -110,3 +109,17 @@ Get-ApplockerPolicy -Effective -xml > C:\users\IEUser\Desktop\AppLocker.xml
 </html>
 
 [LOLBAS](https://lolbas-project.github.io/)
+
+
+## What is CLM?
+
+<html>
+  <div dir="auto">
+        طيب لما ال AppLocker يكون شغال غالباً Powershell رح تكون تستخدم ال Constrained Language Mode أو المعروف بال CLM وهذه تمنعنا من اننا نسوي execute لأوامر او اننا نستخدم ال .Net نقدر نشيك أيش ال Powershell Mode الحالي عن طريق هذا الأمر: 
+    </div>
+</html>
+
+
+```powershell
+$ExecutionContext.SessionState.LanguageMode
+```
