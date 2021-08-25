@@ -1,16 +1,8 @@
----
-title: Who Am I
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Who Am I?</p></b></body></html>
 
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
----
-
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
-
-Hello reader, My name is Mohammed or as known as `Z0ldyck`. I am a first-year student at Champlain College majoring in Cyber Security. I started learning about Network and Web Penetration Testing while I am in High School. Before High School, I had some experience with programming and Arduino.
+<b>Hello reader, My name is Mohammed or as known as<b> ```Z0ldyck```. I am a first-year student at Champlain College majoring in Cyber Security. I started learning about Network and Web Penetration Testing while I am in High School. Before High School, I had some experience with programming and Arduino.</b>
+<br>
+<br>
 
 # Certifications
 
