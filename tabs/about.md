@@ -261,7 +261,7 @@ First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 -
 var slideIndexx = 1;
 showDivs(slideIndexx);
 
-function plusDivs(p) {
+function plusDivs(n) {
   showDivs(slideIndexx += p);
 }
 
