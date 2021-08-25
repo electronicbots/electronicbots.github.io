@@ -182,3 +182,16 @@ rundll32.exe .\PowerShdll.dll,main -w
 ```
 
 ![Rundll32](../../images/Applocker-CLM/13.png)
+
+
+## Ending
+
+<html>
+  <div dir="auto">
+    في النهاية اتمنى اني أفدت ولو شخص واحد واحب اذكركم انه غالباً رح تحتاج تجمع كل الي تعلمته عشان يوصلك reverse shell
+    </div>
+</html>
+
+\
+&nbsp;
+`Happy Hunting`
