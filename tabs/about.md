@@ -51,17 +51,18 @@ Webmin 1.973 - Exploiting a Reflected Cross-Site Scripting (XSS) attack to get a
 Webmin 1.973 - Exploiting a Cross-site request forgery (CSRF) attack to create a privileged user through the Webmin's add users feature then getting a reverse shell through the Webmin's running process feature <br>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-31762/">CVE-2021-31762</a></ul>
   
-# Achievements
 
-### Registered three CVEs:
-- CVE-2021-31760
-- CVE-2021-31761
-- CVE-2021-31762
+<br><br>
+> <html><body><b><p style="color:#A52A2A;font-size:25px">Achievements</p></b></body></html>
 
-### Acknowledged By (Webmin)
+<ul><li><b>HackTheBox Hall Of Fame:</b></li> <br>
+<a href="https://app.hackthebox.eu/profile/159196">HackTheBox</a></ul>
+<ul><li><b>Webmin Hall Of Fame:</b></li> <br>
+<a href="https://webmin.com/security.html">Webmin's security alerts</a></ul>
+<ul><li><b>CyberPatriot:</b></li> <br>
+<a>First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 - 2021)</a></ul>
+  
 
-### CyberPatriot
-First place ( 1st ) in Vermont’s CyberPatriot for three years in a row (2019 - 2021)
 
 
 
