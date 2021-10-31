@@ -53,7 +53,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <div dir="rtl">
-<p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">تثبيت التطبيق:</span></p>
+<p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">تثبيت التطبيق:</span></p>
 </div>
 </html>
 
@@ -115,4 +115,12 @@ tags: [ZLOGG3R, KeyLogger]
 في شريط البحث ، ابحث عن " تشغيل مميزات Windows او ايقاف تشغيلها" وقم بفتحه 
 </div>
 </body>
+</html>
+
+![](../../images/ZLOGG3R/1.png)
+
+<html>
+<div dir="rtl">
+ابحث على " Internet Information Services " وقم بتحديد FTP Server
+</div>
 </html>
