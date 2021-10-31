@@ -1,9 +1,9 @@
 ---
-title: ZLOGG3R (English)
+title: ZLOGG3R
 author: Z0ldyck
 date: 2021-08-25 18:32:00 -0500
 categories: [Blogging, Tutorial]
-tags: [Applocker, CLM]
+tags: [ZLOGG3R, KeyLogger]
 ---
 
 <html>
