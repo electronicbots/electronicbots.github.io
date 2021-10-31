@@ -17,7 +17,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <div dir="rtl">
-<p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">المقدمة:</span></p>
+<p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">المقدمة:</span></p>
 </div>
 </html>
 
