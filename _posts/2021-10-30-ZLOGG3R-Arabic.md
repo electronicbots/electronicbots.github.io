@@ -88,3 +88,17 @@ tags: [ZLOGG3R, KeyLogger]
 </html>
 
 ![](../../images/ZLOGG3R/5.png)
+
+<html>
+<br>
+<div dir="rtl">
+بعد أن عدلت اصدار CSC الى الاصدار الذي يملكه جهازك، اضغط بزر الماوس الأيمن على اسم التطبيق واضغط على "Build" وسوف يتم إنشاء التطبيق. في نفس الملف انتقل الى "keylogger.cs" افتحه واذهب الى السطر 64 ، وقوم بتعديل عنوان الشبكة الى العنوان الخاص بك. احفظ وسوف تتمكن من استخدام ZL0GG3R الان. 
+</div>
+</html>
+
+<html>
+<br>
+<div dir="rtl">
+<p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">FTP Server:</span></p>
+</div>
+</html>
