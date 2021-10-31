@@ -189,3 +189,45 @@ tags: [ZLOGG3R, KeyLogger]
 </div>
 </html>
 <html>
+
+<html>
+<br>
+<div dir="rtl" algin="right">
+تأكد بأن كل ماذكرناه سابقا يعمل بالكامل ، لنضمن عمل التطبيق بالطريقه الصحيحه وبكل سهوله 
+وضعنا لكم صورة للصفحة الرئيسية للتطبيق :
+</div>
+</html>
+
+![](../../images/ZLOGG3R/z1.png)
+
+<html>
+<div dir="rtl" algin="right">
+دعونا نبدأ بأول تعامل مع التطبيق وهي طريقة انشاء الـ keylogger exe file
+قم بإدخال معلوماتك والضغط على زر إنشاء
+</div>
+</html>
+
+![](../../images/ZLOGG3R/z2.png)
+
+<html>
+<div dir="rtl" algin="right">
+سيتم انشاء ملف exe في مجلد التطبيق عليك التحقق من ذلك . 
+الخطوه الاخرى هي "Log Files" في هذا الخيار يمكنك اختيار المسار الذي توجد عليه جميع log files واستعراضها داخل التطبيق 
+</div>
+</html>
+  
+![](../../images/ZLOGG3R/z3.png)
+  
+<html>
+<div dir="rtl">
+<p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">هل هو قابل للكشف؟</span></p>
+</div>
+</html>
+  
+<html>
+<div dir="rtl" algin="right">
+نحن نعلم ان معظم الاشخاص سوف يستخدمون Virustotal لفحص التطبيق ، وهذا ما قد يؤدي إلى اكتشاف البرنامج من الـ AVs ، لذلك هدفنا الرئيسي هو تطوير التطبيق وليس أن نجعله غير قابل للكشف من برامج ومواقع الفحص ، ولكن سوف نبذل كل جهدنا أن يكون غير قابل للكشف. عند كتابة هذا الدليل لم يُكشف التطبيق إلا من AV واحدة فقط : 
+</div>
+</html>
+  
+![](../../images/ZLOGG3R/z4.png)
