@@ -237,3 +237,50 @@ tags: [ZLOGG3R, KeyLogger]
 باذن الله سوف ننشر Anti Virus evasion methods لاحقاً .
 </div>
 </html> 
+
+<html>
+<div dir="rtl">
+<p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">ماهي التحديثات القادمة؟ </span></p>
+</div>
+</html>
+
+
+<html>
+<div dir="rtl" align="right">
+<br>قد يبدو التطبيق الى الان بسيط،  ولكن نحن نسعى الى تحديثه واختباره بشكل دوري وهذا ماقد يؤخرنا عن تنزيل التحديثات 
+يمكنك قراءة ما سوف نضيفه لاحقا : <br>
+</div>
+</html>
+
+For log files transferring:
+
+- Through Email
+- HTTP
+- Discord
+- Slack
+- Telegram
+- (Other methods that will not be mentioned currently.)
+
+
+The Application itself:
+
+- Taking screenshots
+- Voice recording
+- Voice recording to Text
+- USB
+- Reading a plugged-in USB content
+- Video Recording
+- New Theme (based on the community)
+- (Other ideas that will not be mentioned currently.)
+
+<html>
+<br>
+<br>
+<div dir="rtl" align="right">
+كما ذكرنا سابقاً انه بأمكان الجميع ان يقترح اضافات قد يراها تطور في التطبيق مستقبلاً ، بأمكانكم التواصل معنا من خلال تويتر على حساباتنا : 
+</div>
+</html>
+
+[Z0ldyck](https://twitter.com/electronicbots)
+
+[BugsBunny](https://twitter.com/0xiMazen)
