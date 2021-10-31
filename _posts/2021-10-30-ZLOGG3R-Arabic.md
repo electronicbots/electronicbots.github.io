@@ -86,5 +86,7 @@ tags: [ZLOGG3R, KeyLogger]
 <br> 
 2- ثم قم بفتح Form2.cs وانتقل الى سطر 53 وقم بتعديل CSC version number ، لانه قد تحتاج الى تعديل هذا المسار الى المسار الموجود على جهازك. 
 </div>
+</body>
+</html>
 
 ![](../../images/ZLOGG3R/5.png)
