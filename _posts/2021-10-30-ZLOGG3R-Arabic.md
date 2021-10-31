@@ -23,7 +23,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 
 <html>
-<h3 dir="rtl"><span>بسم الله الرحمن الرحيم</span></h3>
+<h3 dir="rtl">بسم الله الرحمن الرحيم</h3>
 </html>
   
 <html>
