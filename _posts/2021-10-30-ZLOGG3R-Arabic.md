@@ -30,13 +30,13 @@ tags: [ZLOGG3R, KeyLogger]
   
 
 <html>
-<div dir="rtl">
+<div dir="rtl" align="right">
 مرحبًا بالجميع ، قبل ان ادخل في تفاصيل تطبيقنا الجديد ، سوف أقدم خلفية عن هذا المشروع . تطبيق ZL0gg3r هو مشروع بحث للكلية ، كان المشروع عبارة عن إنشاء Keylogger بسيط يتم إنشاؤه باستخدام لغة Python ، لكن اتخذت القرار بأن اتحدى نفسي أكثر وانشأه باستخدام لغة C# لأني بدأت باستخدامها مؤخراً .
 </div>
 </html>
 
 <html>
-<div dir="rtl">
+<div dir="rtl" align="right">
 <br>
   
 بعد اتخاذ القرار طرحت فكرة التطبيق الى أحد اصدقائي وبعدها اقترح علي انه بأمكاننا انشاء Keylogger بمميزات اضافية ، ومن هنا اتى سبب إنشاء هذا التطبيق .
@@ -58,7 +58,7 @@ tags: [ZLOGG3R, KeyLogger]
 </html>
 
 <html>
-<div dir="rtl">
+<div dir="rtl" align="right">
 ،قبل أن تسأل عن طريقة التثبيت او مشاكل التثبيت
 يجب عليك اتباع الطريقة التي سوف نشرحها هنا والتأكد من أن كل شيء كما ذكرنا 
 
@@ -68,7 +68,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <br>
-<div dir="rtl">
+<div dir="rtl" align="right">
 <p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">ZL0GG3R:</span></p>
 </div>
 </html>
@@ -81,7 +81,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 </div>
 <br>
-<div dir="rtl">
+<div dir="rtl" align="right">
 الان قم بفتح التطبيق في Visual Studio ثم قم بفتح Form2.cs وانتقل الى سطر 53 وقم بتعديل CSC version number ، لانه قد تحتاج الى تعديل هذا المسار الى المسار الموجود على جهازك.
 </div> 
 </body>
@@ -91,14 +91,14 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <br>
-<div dir="rtl">
+<div dir="rtl" align="right">
 بعد أن عدلت اصدار CSC الى الاصدار الذي يملكه جهازك، اضغط بزر الماوس الأيمن على اسم التطبيق واضغط على "Build" وسوف يتم إنشاء التطبيق. في نفس الملف انتقل الى "keylogger.cs" افتحه واذهب الى السطر 64 ، وقوم بتعديل عنوان الشبكة الى العنوان الخاص بك. احفظ وسوف تتمكن من استخدام ZL0GG3R الان. 
 </div>
 </html>
 
 <html>
 <br>
-<div dir="rtl">
+<div dir="rtl" align="right">
 <p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">FTP Server:</span></p>
 </div>
 </html>
@@ -106,11 +106,11 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <body>
-<div dir="rtl">
+<div dir="rtl" align="right">
 يجب توضيح أنه بإمكان مستخدم ZL0gg3r ان يستخدم اي FTP Client  ومن الممكن ان يتم انشاء FTP Client خاص بالتطبيق مستقبلاً 
 </div>
 <br>
-<div dir="rtl">
+<div dir="rtl" align="right">
 هنا سوف نساعدك في تثبيت FTP Server لنظام ويندوز وتشغيله 
 في شريط البحث ، ابحث عن " تشغيل مميزات Windows او ايقاف تشغيلها" وقم بفتحه 
 </div>
@@ -120,7 +120,9 @@ tags: [ZLOGG3R, KeyLogger]
 ![](../../images/ZLOGG3R/1.png)
 
 <html>
-<div dir="rtl">
+<div dir="rtl" align="right">
 ابحث على " Internet Information Services " وقم بتحديد FTP Server
 </div>
 </html>
+
+![](../../images/ZLOGG3R/2.png)
