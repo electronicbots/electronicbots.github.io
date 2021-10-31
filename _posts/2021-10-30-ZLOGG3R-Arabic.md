@@ -236,6 +236,7 @@ tags: [ZLOGG3R, KeyLogger]
 <div dir="rtl" align="right">
 باذن الله سوف ننشر Anti Virus evasion methods لاحقاً .
 </div>
+<br>
 </html> 
 
 <html>
@@ -250,6 +251,7 @@ tags: [ZLOGG3R, KeyLogger]
 <br>قد يبدو التطبيق الى الان بسيط،  ولكن نحن نسعى الى تحديثه واختباره بشكل دوري وهذا ماقد يؤخرنا عن تنزيل التحديثات 
 يمكنك قراءة ما سوف نضيفه لاحقا : <br>
 </div>
+<br>
 </html>
 
 For log files transferring:
