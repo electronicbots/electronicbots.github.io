@@ -104,7 +104,7 @@ tags: [ZLOGG3R, KeyLogger]
 </html>
 
 
-<html dir="rtl">
+<html>
 <body>
 <div dir="rtl">
 يجب توضيح أنه بإمكان مستخدم ZL0gg3r ان يستخدم اي FTP Client  ومن الممكن ان يتم انشاء FTP Client خاص بالتطبيق مستقبلاً 
