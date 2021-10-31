@@ -82,12 +82,12 @@ tags: [ZLOGG3R, KeyLogger]
 </div>
 <br>
 <div dir="rtl">
-1- الان قم بفتح التطبيق في Visual Studio
-</div>
-<br>
-<div dir="rtl">
-2- ثم قم بفتح Form2.cs وانتقل الى سطر 53 وقم بتعديل CSC version number ، لانه قد تحتاج الى تعديل هذا المسار الى المسار الموجود على جهازك. 
-</div>
+<ol>
+<li> الان قم بفتح التطبيق في Visual Studio </li>
+  
+<li> ثم قم بفتح Form2.cs وانتقل الى سطر 53 وقم بتعديل CSC version number ، لانه قد تحتاج الى تعديل هذا المسار الى المسار الموجود على جهازك. </li>
+</ol>
+</div> 
 </body>
 </html>
 
