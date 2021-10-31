@@ -159,3 +159,33 @@ tags: [ZLOGG3R, KeyLogger]
 </html>
 
 ![](../../images/ZLOGG3R/4.png)
+
+<html>
+<div dir="rtl">
+<p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">Web Server:</span></p>
+</div>
+</html>
+
+<html>
+<div dir="rtl" align="right">
+علينا استخدام خادم ويب IIS وبأمكانك استخدام اي شيء اخر 
+سوف نضع مرجع لكيفية اعداد خادم ويب وتشغيله :  
+</div>
+</html>
+
+[nstall and Setup a Website in IIS on Windows 10](https://helpdeskgeek.com/windows-10/install-and-setup-a-website-in-iis-on-windows-10/)
+
+<html>
+<br>
+<div dir="rtl" align="right">
+يجب عليك تعيين اسم الملف لخادم الويب على الدليل المسمى "WebSrv" الموجود على مجلد التطبيق. 
+</div>
+</html>
+
+<html>
+<br>
+<div dir="rtl">
+<p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">دليل المستخدم: </span></p>
+</div>
+</html>
+<html>
