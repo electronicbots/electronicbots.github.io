@@ -17,7 +17,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <div dir="rtl">
-<p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">المقدمة:</span></p>
+<p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">المقدمة:</span></p>
 </div>
 </html>
 
@@ -75,7 +75,7 @@ tags: [ZLOGG3R, KeyLogger]
 
 <html>
 <body>
-<div dir="rtl">
+<div dir="rtl" align="right">
 بأمكانك نسخ الكود وإنشاء التطبيق باستخدام Visual Studio أو أستخدام البرنامج المرفق عن طريق تنزيله مباشرة 
 <br> #ملاحظة : يُنصح بتنزيل و استخدام البرنامج المرفق مباشرة لأننا نضمن انه سوف يعمل بدون مشاكل ، ايضا قد تحتاج الى تعديل بعض التعليمات ليعمل على نظام ويندوز الخاص بك . <br>
 
