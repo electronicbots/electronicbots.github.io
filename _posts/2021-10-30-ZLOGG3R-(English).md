@@ -1,5 +1,5 @@
 ---
-title: ZL0GG3R (English)
+title: ZLOGG3R (English)
 author: Z0ldyck
 date: 2021-08-25 18:32:00 -0500
 categories: [Blogging, Tutorial]
@@ -33,14 +33,14 @@ We started with just the basics, which was just creating the Key Logger, then we
 I just wanted to let you know before asking us questions on Twitter or Github please follow this guide and make sure everything is as mentioned in this documentation. The Key Logger is currently using FTP to transfer files from the victim machine, check the “What’s Next?” section to see what other transfer features we will be adding.
 
 <html>
-<p><span style="font-size:16pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ZL0GG3R:</span></p>
+<p><span style="font-size:16pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ZLOGG3R:</span></p>
 </html>
 
 You can clone the whole repo and build the program using Visual Studio or you can use the Pre-Built one by downloading the zip file. I would suggest using the pre-built one, as it was configured by us. I also want to mention that you may need to modify some of the code to work on your Windows.
 
 Open the program in Visual Studio and then open “Form2.cs” from the right panel. Go to line 53 and make note of the CSC version number. You may need to change that path to the one your computer has.
 
-
+![](../../images/ZLOGG3R/5.png)
 
 After that just right-click on the Project name and hit “Build”. You should then be all set.
 In the same directory, you should be able to notice a file called “keylogger.cs”. Open this file and go to line 64. Modify the IP Address to match yours. Save it and close, then you should be all set to start using ZL0GG3R.
@@ -55,21 +55,22 @@ You are not limited to what FTP Client you are using, we might build an FTP Clie
 
 In the Search Bar lookup for “Turn Windows features on or off” and open it. You should see something similar to this:
 
-
+![](../../images/ZLOGG3R/1.png)
 
 
 Go down and expand “Internet Information Services” so you can check the “FTP Server” option. Make sure all the options are selected, check the image below:
 
-
+![](../../images/ZLOGG3R/2.png)
 
 You will also need to Check “Web Management Tools”. Then hit OK. Then the installation should start. After that, using the Search Bar lookup “Internet Information Services (IIS) Manager” and open it. Expand the left side menu and right-click on “Sites”, then click on “Add FTP Site…”. You can now type the site name and the physical path. I would suggest creating a directory for the FTP Server inside the ZLogger path.
 
 
-
+![](../../images/ZLOGG3R/3.png)
 
 
 In the next window you can leave everything as it is, but make sure to select “No SSL”, and you can then hit Next. In the Authentication window select “Basic” and then for the “Allow access to” section, you can set it to “Specific users” and write the username there. Make sure to checkmark the Read and Write permissions. If you hit Finish you should be all set. You can copy a file to the physical path and try to connect to the FTP server using File Explorer.
 
+![](../../images/ZLOGG3R/4.png)
 
 <html>
 <p><span style="font-size:16pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Web Server:</span></p>
@@ -89,21 +90,19 @@ Make sure to set the root directory of the Web Server to the directory called �
 Before reading this section make sure you did the installation correctly. We are working on making the program more user-friendly, and creating a better theme. You can see below the current program main page.
 
 
-
-
-
+![](../../images/ZLOGG3R/z1.png)
 
 
 Let’s start first in the Generate section where you will be inputting your data, and generating the keylogger exe file.
 
-
+![](../../images/ZLOGG3R/z2.png)
 
 When you finish just hit “Generate” and an exe file will be located in the root directory of the program.
 
 
 The last section is the “Log Files” where you can choose the path where all the log files are located and open them inside the program.
 
-
+![](../../images/ZLOGG3R/z3.png)
 
 
 <html>
@@ -113,7 +112,7 @@ The last section is the “Log Files” where you can choose the path where all 
 
 I know people will be using Virus Total to scan the Keylogger, so it is not going to take that long to be detected by the AVs. Our main objective is not to keep the Keylogger undetectable, but we will try our best to keep it undetected. By the time of writing this article, there were only one AV was able to detect it:
 
-
+![](../../images/ZLOGG3R/z4.png)
 
 We will be also posting another article about Anti Virus evasion methods.
 
