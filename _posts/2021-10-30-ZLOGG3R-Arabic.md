@@ -188,7 +188,6 @@ tags: [ZLOGG3R, KeyLogger]
 <p dir="rtl" align="right"><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">دليل المستخدم: </span></p>
 </div>
 </html>
-</html>
 
 <html>
 <br>
