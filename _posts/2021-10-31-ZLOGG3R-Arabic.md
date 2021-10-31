@@ -1,7 +1,7 @@
 ---
 title: ZLOGG3R (Arabic)
 author: Z0ldyck, Mazen
-date: 2021-10-30 18:32:00 -0500
+date: 2021-10-31 18:32:00 -0500
 categories: [Blogging, Tutorial]
 tags: [ZLOGG3R, KeyLogger]
 ---
