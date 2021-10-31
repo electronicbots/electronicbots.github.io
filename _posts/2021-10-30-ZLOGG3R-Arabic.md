@@ -65,3 +65,26 @@ tags: [ZLOGG3R, KeyLogger]
 التطبيق الان يستخدم FTP Server لنقل الملفات من جهاز الضحية، ولمعرفة المميزات القادمة عليك التحقق من "ما هي التحديثات القادمة؟"
 </div>
 </html>
+
+<html>
+<br>
+<div dir="rtl">
+<p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">ZL0GG3R:</span></p>
+</div>
+</html>
+
+<html>
+<body>
+<div dir="rtl">
+بأمكانك نسخ الكود وإنشاء التطبيق باستخدام Visual Studio أو أستخدام البرنامج المرفق عن طريق تنزيله مباشرة 
+#ملاحظة : يُنصح بتنزيل و استخدام البرنامج المرفق مباشرة لأننا نضمن انه سوف يعمل بدون مشاكل ، ايضا قد تحتاج الى تعديل بعض التعليمات ليعمل على نظام ويندوز الخاص بك .
+
+</div>
+<br>
+<div dir="rtl">
+1- الان قم بفتح التطبيق في Visual Studio
+<br> 
+2- ثم قم بفتح Form2.cs وانتقل الى سطر 53 وقم بتعديل CSC version number ، لانه قد تحتاج الى تعديل هذا المسار الى المسار الموجود على جهازك. 
+</div>
+
+![](../../images/ZLOGG3R/5.png)
