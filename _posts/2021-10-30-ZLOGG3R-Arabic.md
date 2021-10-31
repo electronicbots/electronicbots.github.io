@@ -126,3 +126,36 @@ tags: [ZLOGG3R, KeyLogger]
 </html>
 
 ![](../../images/ZLOGG3R/2.png)
+
+<html>
+<div dir="rtl" align="right">
+ابحث على "Web Management Tools" وقم بتحديدها ليتم التثبيت
+الان في شريط البحث ، ابحث عن " Internet Information Services (IIS) Manager " وقم بتشغيله 
+</div>
+</html>
+
+
+<html>
+<br>
+<div dir="rtl" align="right">
+حدد من القائمة "site" من ثم "Add FTP Site"
+</div>
+</html>
+
+![](../../images/ZLOGG3R/3.png)
+
+<html>
+<div dir="rtl" align="right">
+الان ضع الاسم او المسار ، يُنصح بانشاء مجلد باسم FTP دخل مسار Zl0gg3r واستخدامه
+</div>
+<br>
+<div dir="rtl" align="right">
+وبعد ذلك يمكنك ترك كل شيء كما هو ولكن يجب عليك وضع خيار "NO SSL " ومن ثم التالي وحدد في نافذة المصادقة "Basic" ثم تحديد المستخدمين من "Allow access to" ووضع اسم المستخدم الذي تريده وبعدها تأكد من وضع أذونات القراءة والكتابة ، يجب أن يكون كل شيء جاهز للاستخدام الآن.
+</div>
+<br>
+<div dir="rtl" align="right">
+الآن للتأكد بأن FTP Server يعمل عليك بنسخ اي ملف ووضعه في مسار FTP والتحقق من ذلك عن طريق File Explorer
+</div>
+</html>
+
+![](../../images/ZLOGG3R/4.png)
