@@ -102,3 +102,17 @@ tags: [ZLOGG3R, KeyLogger]
 <p><span style="font-size:20pt;font-family:Arial;color:#a52a2a;background-color:transparent;font-weight:400;font-style:normal;">FTP Server:</span></p>
 </div>
 </html>
+
+
+<html dir="rtl">
+<body>
+<div dir="rtl">
+يجب توضيح أنه بإمكان مستخدم ZL0gg3r ان يستخدم اي FTP Client  ومن الممكن ان يتم انشاء FTP Client خاص بالتطبيق مستقبلاً 
+</div>
+<br>
+<div dir="rtl">
+هنا سوف نساعدك في تثبيت FTP Server لنظام ويندوز وتشغيله 
+في شريط البحث ، ابحث عن " تشغيل مميزات Windows او ايقاف تشغيلها" وقم بفتحه 
+</div>
+</body>
+</html>
