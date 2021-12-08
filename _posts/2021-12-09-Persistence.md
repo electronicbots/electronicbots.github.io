@@ -82,8 +82,9 @@ C:\Windows\System32
 
 <html>
 <body>
-<iframe src="https://giphy.com/embed/1236TCtX5dsGEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ryan-gosling-clap-university-1236TCtX5dsGEo">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/1236TCtX5dsGEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ryan-gosling-clap-university-1236TCtX5dsGEo"></a></p>
 </body>
 </html>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![Alt Text](https://giphy.com/embed/1236TCtX5dsGEo)
