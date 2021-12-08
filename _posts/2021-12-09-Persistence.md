@@ -38,3 +38,5 @@ tags: [Persistence]
 عمركم ضغطتم على ال shift اكثر من مرة وطلعت لكم هذه الرسالة:
 </div>
 </html>
+
+![](../../images/persistence/6.png)
