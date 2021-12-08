@@ -40,3 +40,21 @@ tags: [Persistence]
 </html>
 
 ![](../../images/persistence/6.png)
+
+<html>
+<div dir="rtl" align="right">
+أول حاجة تسويها تروح هنا 
+</div>
+</html>
+
+```
+C:\Windows\System32
+```
+
+<html>
+<div dir="rtl" align="right">
+رح تغير اسم sethc.exe الى اي حاجة ثانية وبعدين انسخ cmd.exe وعدل على الاسم وخليه sethc.exe رح تنتهي بشي قريب من هذا: 
+</div>
+</html>
+
+![](../../images/persistence/3.png)
