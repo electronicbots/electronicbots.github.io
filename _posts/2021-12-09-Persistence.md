@@ -58,3 +58,32 @@ C:\Windows\System32
 </html>
 
 ![](../../images/persistence/3.png)
+
+<html>
+<div dir="rtl" align="right">
+غالبا رح تضطر تغير ال Owner الخاص ب sethc.exe وتخليه اليوزر الي انت واصل له
+</div>
+</html>
+
+
+![](../../images/persistence/1.png)
+
+
+![](../../images/persistence/2.png)
+
+<html>
+<div dir="rtl" align="right">
+الأن اذا جيت تسجل دخول اضغط ال shift أكثر من مرة ورح تطلع لك cmd.exe
+</div>
+</html>
+
+![](../../images/persistence/4.png)
+
+
+<html>
+<body>
+<iframe src="https://giphy.com/embed/1236TCtX5dsGEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ryan-gosling-clap-university-1236TCtX5dsGEo">via GIPHY</a></p>
+</body>
+</html>
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
