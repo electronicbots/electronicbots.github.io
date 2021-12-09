@@ -79,6 +79,75 @@ C:\Windows\System32
 
 ![](../../images/persistence/4.png)
 
+### Abusing Windows Narrator
+
+<html>
+<div dir="rtl" align="right">
+ال Narrator في ال windows يقرأ لك الكلام الي موجود بالصفحة وحدة من الأمور الي نقدر نستغلها هي خاصية ال "Feedback-Hub" أول حاجة تسويها هي تفعيلها من الأعدادات: 
+</div>
+</html>
+
+![](../../images/persistence/7.png)
+
+
+<html>
+<div dir="rtl" align="right">
+في ال Narrator settings عدل على "Provide Narrator feedback" وحط له الأختصار الي يناسبك 
+</div>
+</html>
+
+![](../../images/persistence/8.png)
+
+<html>
+<div dir="rtl" align="right">
+شغل Registry Editor وروح على ال key الي تحت وسجل اسم الملف الي حاط عليه بالسهم 
+</div>
+</html>
+
+`Computer\HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\PackageRepository\Extensions\windows.protocol\feedback-hub`
+
+![](../../images/persistence/9.png)
+
+<html>
+<div dir="rtl" align="right">
+بعدين استخدم هذا الاسم وروح على هذه ال entry:
+</div>
+</html>
+
+`Computer\HKEY_CURRENT_USER\Software\Classes\<file_name>\Application`
+
+![](../../images/persistence/10.png)
+
+<html>
+<div dir="rtl" align="right">
+في ملف ال command رح تلقى ملف اسمه DelegateExecute احذفه 
+</div>
+</html>
+
+![](../../images/persistence/11.png)
+
+
+<html>
+<div dir="rtl" align="right">
+بعدين بنفس المكان عدل على ال Default entry وحط فيها الكوماند الي تحتاجه 
+</div>
+</html>
+
+![](../../images/persistence/12.png)
+
+<html>
+<div dir="rtl" align="right">
+سوي Lock للحساب واضغط الأختصار الي سجلناه بالبداية ورح تجي لك request للسيرفر:
+</div>
+</html>
+
+![](../../images/persistence/13.png)
+
+<html>
+<div dir="rtl" align="right">
+أعتقد واضحة كيف تقدرون تستغلوها لمثلاً meterpreter shell
+</div>
+</html>
 
 <html>
 <body>
