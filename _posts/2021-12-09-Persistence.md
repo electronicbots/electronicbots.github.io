@@ -178,7 +178,7 @@ C:\Windows\System32
 
 <html>
 <div dir="rtl" align="right">
-انتضر شوي ورح تطلع لك ال cmd بنفس الوقت خلي ببالك انه في group policy لل screensavers في ال Active Airectory
+انتضر شوي ورح تطلع لك ال cmd بنفس الوقت خلي ببالك انه في group policy لل screensavers في ال Active Directory
 </div>
 </html>
 
