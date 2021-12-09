@@ -182,7 +182,7 @@ C:\Windows\System32
 </div>
 </html>
 
-### `Demo`
+## `Demo:`
 
 ![](../../images/persistence/screen.gif)
 
@@ -192,9 +192,4 @@ C:\Windows\System32
 <body>
 <iframe src="https://giphy.com/embed/1JyWrrkCIUQyQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </body>
-</html>
-
-
-<html>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/1JyWrrkCIUQyQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mfw-volume-webm-1JyWrrkCIUQyQ">via GIPHY</a></p>
 </html>
