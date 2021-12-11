@@ -187,9 +187,31 @@ C:\Windows\System32
 ![](../../images/persistence/screen.gif)
 
 `Leave your computer on, while I am already in ;)`
-
 <html>
 <body>
 <iframe src="https://giphy.com/embed/1JyWrrkCIUQyQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </body>
 </html>
+
+## .lnk Shortcuts
+
+<html>
+<div dir="rtl" align="right">
+نقدر نسوي hijack لل Shortcuts وبهذه الطريقة اذا المستخدم شغل firefox رح يشتغل وبنفس الوقت رح يشغل برنامجنا. في ال properties عدل على ال target وحط فيه الكوماند الي تحت وعدل على خيار ال Run وحطه Minimized
+</div>
+</html>
+
+`powershell.exe -c "invoke-item 'C:\Program Files\Mozilla Firefox\firefox.exe'; invoke-item c:\windows\system32\cmd.exe"`
+
+
+![](../../images/persistence/16.png)
+
+<html>
+<div dir="rtl" align="right">
+في حال تغيرت ال icon تقدر ترجع تعدلها من ال properties
+</div>
+</html>
+
+## `Demo:`
+
+![](../../images/persistence/17.gif)
