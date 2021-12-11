@@ -244,3 +244,7 @@ C:\Windows\System32\calc.exe
 ### `Demo:`
 
 ![](../../images/persistence/18.gif)
+
+
+# DLL Hijacking
+
