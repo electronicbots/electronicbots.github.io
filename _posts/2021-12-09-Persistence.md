@@ -1,5 +1,5 @@
 ---
-title: Persistence For Red Teamers
+title: Persistence For Red Teamers (Part 1)
 author: Z0ldyck
 date: 2021-12-09 18:32:00 -0500
 categories: [Blogging, Tutorial]
@@ -248,3 +248,25 @@ C:\Windows\System32\calc.exe
 
 # Powershell Profile
 
+<html>
+<div dir="rtl" align="right">
+نقدر نستغل ال powershell profiles فيصير كل ما المستخدم شغل powershell يتنفذ برنامجنا
+</div>
+</html>
+
+```powershell
+$ echo "echo z0ldyck > C:\Users\IEUser\Desktop\me.txt" > $PROFILE
+$ cat $PROFILE
+```
+
+![](../../images/persistence/20.png)
+
+<html>
+<div dir="rtl" align="right">
+أول ما المستخدم يشغل powershell رح يتنفذ الأمر
+</div>
+</html>
+
+## `Demo:`
+
+![](../../images/persistence/21.gif)
