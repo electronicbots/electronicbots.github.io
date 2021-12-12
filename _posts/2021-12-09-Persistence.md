@@ -182,7 +182,7 @@ C:\Windows\System32
 </div>
 </html>
 
-### `Demo:`
+## `Demo:`
 
 ![](../../images/persistence/screen.gif)
 
@@ -212,7 +212,7 @@ C:\Windows\System32
 </div>
 </html>
 
-### `Demo:`
+## `Demo:`
 
 ![](../../images/persistence/17.gif)
 
@@ -241,10 +241,10 @@ C:\Windows\System32\calc.exe
 
 `reg add "HKEY_CURRENT_USER\Environment" /v UserInitMprLogonScript /d "C:\temp\zoldyck.bat" /t REG_SZ /f`
 
-### `Demo:`
+## `Demo:`
 
 ![](../../images/persistence/18.gif)
 
 
-# DLL Hijacking
+# Powershell Profile
 
