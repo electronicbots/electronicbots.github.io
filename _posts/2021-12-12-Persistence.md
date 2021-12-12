@@ -1,7 +1,7 @@
 ---
 title: Persistence For Red Teamers (Part 1)
 author: Z0ldyck
-date: 2021-12-09 18:32:00 -0500
+date: 2021-12-12 18:32:00 -0500
 categories: [Blogging, Tutorial]
 tags: [Persistence]
 ---
