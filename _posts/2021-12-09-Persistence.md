@@ -270,3 +270,11 @@ $ cat $PROFILE
 ## `Demo:`
 
 ![](../../images/persistence/21.gif)
+
+`See You All In Part 2`
+
+<html>
+<body>
+<iframe src="https://giphy.com/embed/IwAZ6dvvvaTtdI8SD5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</body>
+</html>
