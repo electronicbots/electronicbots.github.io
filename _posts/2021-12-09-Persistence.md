@@ -23,7 +23,7 @@ tags: [Persistence]
 </div>
 </html>
 
-## Windows Accessibility Features
+# Windows Accessibility Features
 
 <html>
 <div dir="rtl" align="right">
@@ -31,7 +31,7 @@ tags: [Persistence]
 </div>
 </html>
 
-### Sticky Keys
+## Sticky Keys
 
 <html>
 <div dir="rtl" align="right">
@@ -79,7 +79,7 @@ C:\Windows\System32
 
 ![](../../images/persistence/4.png)
 
-### Abusing Windows Narrator
+## Abusing Windows Narrator
 
 <html>
 <div dir="rtl" align="right">
@@ -156,7 +156,7 @@ C:\Windows\System32
 </html>
 
 
-## Screensavers
+# Screensavers
 
 <html>
 <div dir="rtl" align="right">
@@ -193,7 +193,7 @@ C:\Windows\System32
 </body>
 </html>
 
-## .lnk Shortcuts
+# .lnk Shortcuts
 
 <html>
 <div dir="rtl" align="right">
@@ -217,7 +217,7 @@ C:\Windows\System32
 ![](../../images/persistence/17.gif)
 
 
-## User Login
+# User Login
 
 <html>
 <div dir="rtl" align="right">
