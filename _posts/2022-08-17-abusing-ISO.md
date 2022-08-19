@@ -14,7 +14,7 @@ tags: [REDTEAM]
 </html>
 
 
-# introduction
+# Introduction
 
 Lately, I have been developing my custom tools and implementing/recreating some of the known techniques used by threat actors. Well, this post is not going to be focused on any specific tool but will showcase one technique that I enjoyed reimplementing and some advice for people who are looking to advance their work specifically for Red Teamers (It could help blue ppl, but I would assume they already do that). I think one of the biggest things that most red teamers (to be specific the ppl in my circle) are missing or not giving some time for is reading reports related to Threat Actors' new techniques. Most of these reports at the first sight might feel that the target audience is mostly Threat Hunters, but in reality, it will help both sides. One side can discover/identify these threats and the other can use them or even advance/change them to something even better, whatever the case is. My point is It doesn't matter what group you are in, reading them will 100% benefit you. I will suggest looking into reports related to Threat Actors from Mandiant/CrowdStrike. There is more, but these are faviourt ones
 
