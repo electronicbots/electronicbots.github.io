@@ -65,4 +65,12 @@ Now all you need to do is save it in a ZIP file because there is a tone of solut
 
 ![](../../images/isoimg/dev.mp4)
 
+<html> 
+<body> 
+<video width="1768" controls>
+  <source src="../../dev.mp4" type="video/mp4">
+</video>
+</body> 
+</html>
+
 I hope you enjoyed reading this post, I will be sharing more stuff (I don’t know why I am doing that at the end of my break lol)
