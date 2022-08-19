@@ -1,7 +1,7 @@
 ---
 title: Abusing ISO/IMG Files
 author: Z0ldyck
-date: 2022-08-19 18:32:00 -0500
+date: 2022-08-17 18:32:00 -0500
 categories: [Blogging, Tutorial]
 tags: [REDTEAM]
 ---
