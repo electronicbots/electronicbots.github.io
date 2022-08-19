@@ -67,8 +67,8 @@ Now all you need to do is save it in a ZIP file because there is a tone of solut
 
 <html> 
 <body> 
-<video width="1768" controls>
-  <source src="../../dev.mp4" type="video/mp4">
+<video width="849" controls>
+  <source src="../../images/isoimg/dev.mp4" type="video/mp4">
 </video>
 </body> 
 </html>
