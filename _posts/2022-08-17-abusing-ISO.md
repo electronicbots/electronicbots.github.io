@@ -69,7 +69,6 @@ Next, you will choose where to save your ISO file. By clicking “Create Now” 
 
 Now all you need to do is save it in a ZIP file because there is a tone of solutions that started triggering ISO/IMG files. I would also suggest making a ZIP file protected with a password so these solutions wouldn’t be able to scan them (If that’s wrong correct me please!). Here is a demo of the whole process:
 
-![](../../images/isoimg/dev.mp4)
 
 <html> 
 <body> 
