@@ -78,6 +78,11 @@ Now all you need to do is save it in a ZIP file because there is a tone of solut
 </body> 
 </html>
 
+I had to update this post because [Yasser](https://twitter.com/Yas_o_h) pointed out something really important that I missed mentioning which is why would we do this whole process. Microsoft introduced something called Zone Identifier Alternate Data Stream information or as known as Mark-of-the-Web (MOTW). In short words, MOTW is a security feature that was used by Internet Explorer to make saved webpages run in the security zone the page was saved from. Now it can create an alternate data stream (ADS) for any downloaded file. When downloading a file from the web, a `Zone.Identifier` will be created and it will add a ZoneID to the stream, this helps identify from which zone the file came. This matter to us because it could affect the execution of our attack, but why did that not happen?
+
+
+The answer is simple alternate data streams are an NTFS feature. In other words, this means Zone Identifier cannot be created on other file systems. So what we did is saving our payload in a container (The ISO File). MOTW will not be flagged on the payloads inside the container.
+
 I hope you enjoyed reading this post, I will be sharing more stuff (I don’t know why I am doing that at the end of my break lol)
 
 
@@ -85,3 +90,6 @@ I hope you enjoyed reading this post, I will be sharing more stuff (I don’t kn
 
 - https://www.crowdstrike.com/blog/weaponizing-disk-image-files-analysis/
 - https://www.mandiant.com/resources/blog/tracking-apt29-phishing-campaigns
+
+
+`Last Updated: 08/20/2022`
