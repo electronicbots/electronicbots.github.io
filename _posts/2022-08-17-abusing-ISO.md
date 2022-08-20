@@ -79,3 +79,9 @@ Now all you need to do is save it in a ZIP file because there is a tone of solut
 </html>
 
 I hope you enjoyed reading this post, I will be sharing more stuff (I don’t know why I am doing that at the end of my break lol)
+
+
+## References
+
+- https://www.crowdstrike.com/blog/weaponizing-disk-image-files-analysis/
+- https://www.mandiant.com/resources/blog/tracking-apt29-phishing-campaigns
