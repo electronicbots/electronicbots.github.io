@@ -7,5 +7,5 @@ tags: [REDTEAM]
 ---
 
 <html>
-<embed src="https://github.com/electronicbots/tmp/raw/main/NET_Loader_Part_1.pdf" width="100%" height="850px"/>
+<object data="https://github.com/electronicbots/tmp/raw/main/NET_Loader_Part_1.pdf" width="1000" height="1000" type='application/pdf'></object>
 </html>
