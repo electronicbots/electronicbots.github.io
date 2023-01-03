@@ -2,10 +2,11 @@
 title: .NET Loader Part 1
 author: Z0ldyck
 date: 2023-01-02 18:32:00 -0500
+layout: pdf
 categories: [Blogging, Tutorial]
 tags: [REDTEAM]
 ---
 
 <html>
-<object data="https://github.com/electronicbots/tmp/raw/main/NET_Loader_Part_1.pdf" width="1000" height="1000" type='application/pdf'></object>
+  <iframe src="https://github.com/electronicbots/tmp/raw/main/NET_Loader_Part_1.pdf" width="100%" height="100%"></iframe>
 </html>
