@@ -1,7 +1,7 @@
 ---
 title: .NET Loader Part 1
 author: Z0ldyck
-date: 2023-01-03 18:32:00 -0500
+date: 2023-01-04 18:32:00 -0500
 categories: [Blogging, Tutorial]
 tags: [REDTEAM]
 ---
